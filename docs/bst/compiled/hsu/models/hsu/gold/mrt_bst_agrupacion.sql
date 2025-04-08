@@ -1,0 +1,12 @@
+
+
+SELECT 
+    ANIO, 
+    ZONA_GEOGRAFICA, 
+    TIPO_VULNERABILIDAD,
+    TITULARES_BSE,
+    IMPORTE_BSE,
+    TITULARES_BST,
+    MUNICIPIO,
+    COSTE_BST
+FROM HSU.int_bst__agrupacion
